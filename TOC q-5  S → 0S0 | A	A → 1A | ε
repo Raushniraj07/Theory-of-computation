@@ -9,3 +9,5 @@ int main() {
     printf("%s\n", *ptr == '\0' ? "String belongs to the language." : "String does not belong to the language.");
     return 0;
 }
+
+input :- 0011
